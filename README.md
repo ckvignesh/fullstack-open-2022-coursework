@@ -1,2 +1,2 @@
-# fullStackOpen
+# Fullstack Open
 Assignments &amp; Projects
